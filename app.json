@@ -1,25 +1,25 @@
 {
-  "name": "PRABATH-MD (1.0.0)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "name": "SACHI-MD (1.0.0)",
+  "description": "SACHI-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://i.ibb.co/3ytBYXcd/my-data.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "sachi-md"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "778936490.",
       "required": true
     },
     "SESSION_ID": {
-      "description": "Put your session Id here.",
+      "description": "PRABATH-MD~mumK4mwsCS9JRfF.",
       "required": true
     },
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "sachi400.",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": ".",
       "required": true
     }   
 },
